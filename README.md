@@ -7,4 +7,5 @@ Badge
 Store data in ViewModel
 ![Store data in ViewModel](https://github.com/buidangkhoa252001/Lab5_Mobile/assets/69308123/dab057e3-9723-48b6-abc6-715e66d1e750)
 Use LiveData with ViewModel
-![Use LiveData with ViewModel](https://github.com/buidangkhoa252001/Lab5_Mobile/assets/69308123/0d33ce99-2ba5-4b04-823c-e9fd4b4ba650)
+![Use LiveData with ViewModel](https://github.com/buidangkhoa252001/Lab5_Mobile/assets/69308123/0975298d-5b5f-41a1-8354-5e681f251fe0)
+
